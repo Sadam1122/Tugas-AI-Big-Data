@@ -23,6 +23,6 @@ Dataset disimpan dalam file heart.csv.
 1. Regresi Logistik
 2. Support Vector Machine (SVM)
 3. Decision Tree
-4. k-Nearest Neighbors (k-NN)
+4. Random Forest
 
 Dalam proyek ini, berbagai model machine learning digunakan untuk memprediksi penyakit jantung berdasarkan berbagai fitur klinis yang tersedia dalam dataset.
